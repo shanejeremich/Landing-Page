@@ -3,8 +3,10 @@
     padding: 24px;
   }
 
-  &_logo {
+  &__logo {
     img {
+      width: 8.8125rem;
+      height: 1.375rem;
     }
   }
 
@@ -20,5 +22,20 @@
         margin-bottom: 3px;
       }
     }
+  }
+
+  &__links {
+    a {
+      font-size: $font-med;
+      color: $grayishBlue;
+
+      &:not(:last-child) {
+        margin-right: 32px;
+      }
+    }
+  }
+
+  &__cta {
+    font-size: $font-sm;
   }
 }
