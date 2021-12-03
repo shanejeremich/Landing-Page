@@ -44,7 +44,7 @@ Download the starter code and go through the README.md file. This will provide f
 
 - HTML / CSS / Javascript
 
-#### Front end deployed to `Vercel`
+### Front end deployed to `Vercel`
 
 > [Landing-Page](http://landing-page.shanejeremich.vercel.app/)
 
