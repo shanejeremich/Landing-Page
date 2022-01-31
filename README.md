@@ -4,7 +4,7 @@ You can find the deployed project at [Landing-Page](http://landing-page.shanejer
 
 ## Overview
 
-This was a challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN/hub/easybank-landing-page-6jVtpaX8Q). The challenge is to test my skills to replicate this landing page and get it looking as close to the design as possible that is provided to me.
+This was a challenge from [Frontend Mentor](https://www.frontendmentor.io/). The challenge is to test my skills to replicate this landing page and get it looking as close to the design as possible that is provided to me.
 
 > **The Challenge**
 
