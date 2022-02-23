@@ -1,0 +1,82 @@
+@use "../utilities" as *;
+
+// Spacing
+.container {
+  max-width: 111rem;
+  margin: 0 auto;
+
+  &--pall {
+    padding-top: 7rem;
+    padding-right: 2.4rem;
+    padding-bottom: 7rem;
+    padding-left: 2.4rem;
+
+    @include breakpoint-up(large) {
+      padding-top: 9.6rem;
+      padding-bottom: 9.6rem;
+    }
+  }
+  &--py {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+
+    @include breakpoint-up(large) {
+      padding-top: 9.6rem;
+      padding-bottom: 9.6rem;
+    }
+  }
+  &--px {
+    padding-right: 2.4rem;
+    padding-left: 2.4rem;
+  }
+  &--pt {
+    padding-top: 7rem;
+
+    @include breakpoint-up(large) {
+      padding-top: 9.6rem;
+    }
+  }
+  &--pr {
+    padding-right: 2.4rem;
+  }
+  &--pb {
+    padding-bottom: 7rem;
+
+    @include breakpoint-up(large) {
+      padding-bottom: 9.6rem;
+    }
+  }
+  &--pl {
+    padding-left: 2.4rem;
+  }
+}
+
+// Flexbox
+.flex {
+  display: flex;
+
+  &-jc-sb {
+    justify-content: space-between;
+  }
+
+  &-jc-c {
+    justify-content: center;
+  }
+
+  &-ai-c {
+    align-items: center;
+  }
+}
+
+// Visibility
+.hide-for-mobile {
+  @include breakpoint-down(medium) {
+    display: none;
+  }
+}
+
+.hide-for-desktop {
+  @include breakpoint-up(large) {
+    display: none;
+  }
+}

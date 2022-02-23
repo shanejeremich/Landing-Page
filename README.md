@@ -20,7 +20,7 @@ View the optimal layout for the site depending on their device's screen size
 See hover states for all interactive elements on the page
 Download the starter code and go through the README.md file. This will provide further details about the project. The style-guide.md file is where you'll find colors, fonts, etc.
 
-![Landing Page](/images/landingpage.jpg)
+![Landing Page](/images/landingpage.png)
 
 <br>
 
@@ -38,7 +38,7 @@ Download the starter code and go through the README.md file. This will provide f
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&logo=SASS&logoColor=white)
 
 ## Key Features
 
