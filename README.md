@@ -55,4 +55,4 @@ Download the starter code and go through the README.md file. This will provide f
 - Read the README.md file and have a look around the project
 - Get colors, fonts etc from the style-guide.md file
 - Set up your project/file architecture however you want
-- Start coding!
+- Start coding!!
