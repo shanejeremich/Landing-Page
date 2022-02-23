@@ -42,7 +42,7 @@ Download the starter code and go through the README.md file. This will provide f
 
 ## Key Features
 
-- HTML / CSS / Javascript
+- HTML / SCSS / Javascript
 
 ### Front end deployed to `Vercel`
 
