@@ -1,7 +1,7 @@
 # Landing-Page
 
 You can find the deployed project at [Landing-Page](http://landing-page.shanejeremich.vercel.app/)
-
+ 
 ## Overview
 
 This was a challenge from [Frontend Mentor](https://www.frontendmentor.io/). The challenge is to test my skills to replicate this landing page and get it looking as close to the design as possible that is provided to me.
@@ -26,10 +26,10 @@ Download the starter code and go through the README.md file. This will provide f
 
 ## Contributors
 
-|                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
+|                                        [Shane Jeremich](https://github.com/shanejeremich)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                         [<img src="images/shane.png" width = "200" />](https://github.com/sjeremich23)                         |
-|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+|                         [<img src="images/shane.png" width = "200" />](https://github.com/shanejeremich)                         |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
 <br>
